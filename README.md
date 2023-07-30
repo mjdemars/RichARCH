@@ -10,18 +10,18 @@ or
 https://sites.google.com/view/richarch
 
 ### Supports:
-*AMD / Nvidia drivers
-*Fully automated installs
-*LVM storage setup options
-*Multiple storage formats, including: BTRFS, EXT4, XFS
+* AMD / Nvidia drivers
+* Fully automated installs
+* LVM storage setup options
+* Multiple storage formats, including: BTRFS, EXT4, XFS
 
 ### Desktop Environments:
-*Budgie
-*Cinnamon
-*Enlightenment
-*Gnome
-*Hyprland
-*KDE
-*Mate
-*XFCE
-*TUI
+* Budgie
+* Cinnamon
+* Enlightenment
+* Gnome
+* Hyprland
+* KDE
+* Mate
+* XFCE
+* TUI
