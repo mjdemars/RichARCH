@@ -22,6 +22,7 @@ https://sites.google.com/view/richarch
 * Gnome
 * Hyprland
 * KDE
+* LXDE
 * Mate
 * XFCE
 * TUI
