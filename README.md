@@ -1,5 +1,5 @@
 # RichARCH
-Creating a Rich experience in Arch.
+Creating a Rich experience to Arch.
 
 RichARCH is designed to be a Simple Quick Pure path to Arch Linux with kickstart like automation features.
 
