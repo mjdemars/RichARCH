@@ -23,6 +23,7 @@ https://sites.google.com/view/richarch
 ### Desktop Environments:
 * Budgie
 * Cinnamon
+* Cosmic
 * Enlightenment
 * Gnome
 * Hyprland
