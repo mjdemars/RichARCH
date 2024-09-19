@@ -5,7 +5,7 @@ RichARCH is designed to be a Simple Quick Pure path to Arch Linux with kickstart
 
 One goal of the project is to only use packages in the basic Arch Linux repos, including the option to install a few non-standard packages (like Spotify and Pamac). Our hope is that this will help to make Arch Linux more approachable to individual and corporate users.
 
-https://richarch.sf.net
+https://sourceforge.net/projects/richarch/
 
 Make sure to backup any data you wish to keep from the storage device you plan to use with the RichARCH installer.
 
