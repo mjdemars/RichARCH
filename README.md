@@ -24,6 +24,7 @@ https://sites.google.com/view/richarch
 * Budgie
 * Cinnamon
 * Cosmic
+* Cutefish
 * Enlightenment
 * Gnome
 * Hyprland
