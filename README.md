@@ -32,4 +32,3 @@ https://sites.google.com/view/richarch
 * LXDE
 * Mate
 * XFCE
-* TUI
