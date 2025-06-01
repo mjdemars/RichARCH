@@ -19,16 +19,5 @@ https://sites.google.com/view/richarch
 * Fully automated installs
 * LVM storage setup options
 * Multiple storage formats, including: BTRFS, EXT4, XFS
-
-### Desktop Environments:
-* Budgie
-* Cinnamon
-* Cosmic
-* Cutefish
-* Enlightenment
-* Gnome
-* Hyprland
-* KDE
-* LXDE
-* Mate
-* XFCE
+* Desktop Environments: Budgie, Cinnamon, Cosmic, Cutefish, Enlightenment, Gnome, Hyprland, KDE, LXDE, LXQT , Mate, Niri, River, Sway, XFCE
+* 
