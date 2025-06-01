@@ -20,4 +20,3 @@ https://sites.google.com/view/richarch
 * LVM storage setup options
 * Multiple storage formats, including: BTRFS, EXT4, XFS
 * Desktop Environments: Budgie, Cinnamon, Cosmic, Cutefish, Enlightenment, Gnome, Hyprland, KDE, LXDE, LXQT , Mate, Niri, River, Sway, XFCE
-* 
