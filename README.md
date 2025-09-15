@@ -10,7 +10,7 @@ https://sourceforge.net/projects/richarch/
 ### Details and installation info can be found at:
 https://download.sf.net/richarch/InstallAndInfo.pdf
 
- - or -
+or
 
 https://sites.google.com/view/richarch
 
