@@ -16,7 +16,7 @@ Profiles: SecOps/Server/Omarchy/HyprVibe/KoolsDots/SaatvikDots/ShellNinja/TheBla
 https://sourceforge.net/projects/richarch/
 
 ### Details and installation info can be found at:
-https://download.sf.net/richarch/InstallAndInfo.pdf
+https://download.sourceforge.net/richarch/InstallAndInfo.pdf
 
 or
 
