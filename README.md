@@ -1,9 +1,15 @@
 # RichARCH
-Creating a Rich experience to Arch.
+Your concierge creating a Rich experience to Arch
 
-RichARCH is designed to be a Simple Quick Pure path to Arch Linux including kickstart like automation features and Hyprland ricing options.
+RichARCH is designed to be a Quick Simpler Path to Arch with automation and ricing options.
 
-One goal of the project is to only use packages in the basic Arch Linux repos by default with the option to install some non-standard packages. Our hope is that this will help to make Arch Linux more approachable to individual and corporate users.
+* Just one command to start the latest complete installer for Arch.
+
+One goal is to only use packages in the basic Arch Linux repos by default with the option to install some non-standard packages. Our hope is that this will help to make Arch Linux more approachable to individual and corporate users.
+
+GUIs: Budgie/Cinnamon/Cosmic/Cutefish/Enlightenment/Gnome/Hyprland/KDE/LXDE/LXQT/Mate/Niri/River/Sway/XFCE
+Kernels: linux/linux-cachyos/linux-hardened/linux-lqx/linux-lts/linux-nitrous/linux-tachyon/linux-zen/linux-znver2/linux-znver3/linux-znver4/linux-znver5
+Profiles: SecOps/Server/Omarchy/HyprVibe/KoolsDots/SaatvikDots/ShellNinja/TheBlackDon/VaelixdDots
 
 https://sourceforge.net/projects/richarch/
 
@@ -15,8 +21,12 @@ or
 https://sites.google.com/view/richarch
 
 ### Supports:
-* AMD / Nvidia drivers
-* Fully automated installs
-* LVM storage setup options
-* Multiple storage formats, including: BTRFS, EXT4, XFS
-* GUI Environments: Budgie, Cinnamon, Cosmic, Cutefish, Enlightenment, Gnome, Hyprland (Kool's Dots, HyprVibe), KDE, LXDE, LXQT, Mate, Niri, Omarchy, River, Sway, XFCE
+* Simple helpful menu structure
+* Software from multiple stable repos
+* Fully automated installs avaliable
+* Multiple install profiles avaliable
+* Orchestration compatible
+* Pure Arch to complete ricing options
+* AMD/Nvidia/Nvidia-Old drivers
+* BTRFS/EXT4/XFS/LVM options
+* Kickstart like features available
