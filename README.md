@@ -20,6 +20,8 @@ https://download.sourceforge.net/richarch/InstallAndInfo.pdf
 
 https://sites.google.com/view/richarch
 
+https://www.youtube.com/watch?v=hjK67kdHkGU&t=6s
+
 ### Supports:
 * Simple helpful menu structure
 * Software from multiple stable repos
