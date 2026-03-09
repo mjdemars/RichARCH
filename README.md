@@ -130,4 +130,5 @@ SECOPS (for adding BlackArch security tools to an already installed Arch system)
 From an installed Arch system, to run the SecOps installer type:
 
 bash <(curl -L download.sourceforge.net/richarch/secops)
+
 Source: README.md, updated 2026-03-09
