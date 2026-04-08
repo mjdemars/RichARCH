@@ -7,7 +7,7 @@ RichARCH is designed to be a Quick Simpler Path to Arch with automation and rici
 
 One goal is to only use packages in the basic Arch Linux repos by default with the option to install some non-standard packages. Our hope is that this will help to make Arch Linux more approachable to individual and corporate users.
 
-GUIs: Budgie/Cinnamon/Cosmic/Cutefish/Enlightenment/Gnome/Hyprland/KDE/LXDE/LXQT/Mate/Niri/River/Sway/XFCE
+GUIs: Budgie/Cinnamon/Cosmic/Enlightenment/Gnome/Hyprland/KDE/LXDE/LXQT/Mate/Niri/River/Sway/XFCE
 
 Kernels: linux/linux-cachyos/linux-hardened/linux-lqx/linux-lts/linux-nitrous/linux-tachyon/linux-zen/linux-znver2/linux-znver3/linux-znver4/linux-znver5
 
