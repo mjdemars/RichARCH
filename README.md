@@ -41,22 +41,6 @@ After booting from the Arch ISO, to run the RichARCH installer type:
 
 bash <(curl -L download.sourceforge.net/richarch/install)
 
-    Added option to install additional alternative kernels (like: linux-cachyos, linux-lqx, linux-zen, ...).
-
-    Repaired launcher for Omarchy.
-
-    Repaired var partitioning for server installs.
-
-    Simplified menus and added progression bars.
-
-    Added Hyprland ricing options: Jupiter Broadcasting's HyprVibe, Kool's Hyprland Dots, and Shell Ninja's Dots
-
-    Added Niri ricing options: DonArch Dots, Saatvik Dots, and Vaelixd Dots
-
-    Added option to setup a custom Omarchy base install and start the online Omarchy installer.
-
-    With the issues that GRUB caused on Arch in 2022, systemd-boot is now used on systems using UEFI.
-
 ++++++++++++++++++++++++++++++++++++++++++
 
 HELP (print quick help info)
@@ -81,14 +65,6 @@ From an installed Arch system, to run the GUI installer type:
 
 bash <(curl -L download.sourceforge.net/richarch/ui)
 
-    Fixed syntax crash error.
-
-    Simplified menus and added progression bars.
-
-    Added Hyprland ricing options: Jupiter Broadcasting's HyprVibe, Kool's Hyprland Dots, and Shell Ninja's Dots
-
-    Added Niri ricing options: DonArch Dots, Saatvik Dots, and Vaelixd Dots
-
 ++++++++++++++++++++++++++++++++++++++++++
 
 EXTRASFTW (for adding extra software to an already installed Arch system)
@@ -96,8 +72,6 @@ EXTRASFTW (for adding extra software to an already installed Arch system)
 From an installed Arch system, to run the extra software installer type:
 
 bash <(curl -L download.sourceforge.net/richarch/extrasftw)
-
-    Apps available: ani-cli ardour audacity betterbird-bin blender bottles cartridges calligra-plan codeblocks darktable devhelp digikam discord dms-shell-git falkon fish floorp freecad freerdp geany gedit gimp gnome-boxes google-chrome gpodder gradia handbrake heroic-games-launcher-bin inkscape intellij-idea-community-edition jellyfin-desktop jellyfin-server kando-git kasts kdenlive keepassxc kicad krita kdiagram leafpad librecad libreoffice librewolf liteide l3afpad looking-glass-git lutris mypaint mousepad noctalia-shell notepadnext obs-studio-stable octopi oh-my-posh-bin onlyoffice-bin open-vm-tools openscad pamac paru piper podman-ui pycharm-community-edition qcad quickemu-gui rapidraw retroarch retroarch-assets-ozone scribus shotcut shotwell signal-desktop slack-desktop spotify steamcmd telegram-desktop terminator tigervnc tmux ulauncher visual-studio-code-bin virtmanager virtualbox virtualbox-guest-utils vivaldi vmware-workstation wireshark wps-office yabridge yt-dlp zen-browser-bin zellij zfs zsh warpterm
 
 ++++++++++++++++++++++++++++++++++++++++++
 
