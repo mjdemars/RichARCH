@@ -11,7 +11,7 @@ GUIs: Budgie/Cinnamon/Cosmic/Enlightenment/Gnome/Hyprland/KDE/LXDE/LXQT/Mate/Nir
 
 Kernels: linux/linux-cachyos/linux-hardened/linux-lqx/linux-lts/linux-nitrous/linux-tachyon/linux-zen/linux-znver2/linux-znver3/linux-znver4/linux-znver5
 
-Profiles: SecOps/Server/Omarchy/HyprVibe/KoolsDots/SaatvikDots/ShellNinja/TheBlackDon/VaelixdDots
+Profiles: SecOps/Server/HyprVibe/KoolsDots/SaatvikDots/ShellNinja/TheBlackDon/VaelixdDots
 
 https://sourceforge.net/projects/richarch/
 
